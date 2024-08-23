@@ -1,0 +1,3 @@
+## Exported Models Directory
+
+Files ending with `.pkl` are exported files. `pasta_shape_recognizer_v2.pkl` is the final deployed model with `~85.6%` accuracy. To further train and improve accuracy you may download the checkpoint `.pth` files from [here](https://drive.google.com/drive/folders/1_BBpAjC9XWnwVF1MsG3bEanJ47UgGJR9?usp=sharing). `pasta_shape_recognizer_v2.pth` is the final checkpoint file after **5+2+2** epochs.
